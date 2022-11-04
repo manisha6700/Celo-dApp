@@ -16,6 +16,7 @@ const nextConfig = withPWA({
         net: false,
         child_process: false,
         readline: false,
+        watch:false
       };
       return config;
     }

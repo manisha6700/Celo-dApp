@@ -19,7 +19,6 @@ import { useCelo } from "@celo/react-celo";
 import { useEffect, useState } from "react";
 import { SnackbarAction, useSnackbar } from "notistack";
 import { truncateAddress, truncateTxHash } from "@/utils";
-import { Storage } from "@local-contracts/types/Storage";
 import { useQuery, gql } from "@apollo/client";
 
 import dayjs from 'dayjs';
