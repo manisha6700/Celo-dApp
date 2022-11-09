@@ -4,32 +4,33 @@ The output of the final dApp is attached below
 
 #### Output
 
-![Output-1]()
-
 - Select the framework you like and please enter.
 
-![Output-2](./images/readme/image-2.png)
+![Output-1](./images/readme/image-2.png)
 
 <ul>
   
 <li><b>Accounts Tab</b></br>
-(./images/readme/Accounts Tab.png)
+
+![Output-2](./images/readme/Accounts Tab.png)
 </li>
   
 <li><b>Greeter Tab</b>
   <dl>
-    (./images/readme/Greetings Tab.png)
+
+![Output-3](./images/readme/Greetings Tab.png)
   </dl>
   
   <ul>
     <li>Setting the Greetings!!
       <dl>
-    (./images/readme/Greetings Tab(set).png)
+
+![Output-4](./images/readme/Greetings Tab(set).png)
       </dl>
     </li>
     <li>Getting the Greetings!!
       <dl>
-    (./images/readme/Greetings Tab(get).png)
+![Output-5](./images/readme/Greetings Tab(get).png)
       </dl>
     </li>
   </ul>
@@ -37,18 +38,20 @@ The output of the final dApp is attached below
   
 <li><b>Messenger Tab</b>
   <dl>
-    (./images/readme/Messenger Tab.png)
+
+![Output-6](./images/readme/Messenger Tab.png)
   </dl>
   
   <ul>
     <li>Setting the Message!!
       <dl>
-    (./images/readme/Messenger Tab(set).png)
+
+![Output-7](./images/readme/Messenger Tab(set).png)
       </dl>
     </li>
     <li>Getting the Message!!
       <dl>
-    (./images/readme/Messenger Tab(get).png)
+    ![Output-8](./images/readme/Messenger Tab(get).png)
       </dl>
     </li>
   </ul>
@@ -56,18 +59,20 @@ The output of the final dApp is attached below
     
 <li><b>Storage Tab</b>
   <dl>
-    (./images/readme/Storage Tab.png)
+
+![Output-9](./images/readme/Storage Tab.png)
   </dl>
   
   <ul>
     <li>Setting the storage value!!
       <dl>
-    (./images/readme/Storage Tab(set).png)
+
+![Output-10](./images/readme/Storage Tab(set).png)
       </dl>
     </li>
     <li>Getting the storage value!!
       <dl>
-    (./images/readme/Storage Tab(get).png)
+![Output-11](./images/readme/Storage Tab(get).png)
       </dl>
     </li>
   </ul>
@@ -76,7 +81,8 @@ The output of the final dApp is attached below
 </ul>
       
  <b>Dark Theme</b>
-    (./images/readme/Accounts Tab.png)
+
+![Output-12](./images/readme/Accounts Tab.png)
       
 So that's all!!
 Thank you for reading till here!!
