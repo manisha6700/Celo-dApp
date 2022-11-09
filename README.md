@@ -4,13 +4,11 @@ The output of the final dApp is attached below
 
 <ul>
   
-<li><b>Accounts Tab<b>
-<dl>
+<li><b>Accounts Tab</b></br>
 ![Screenshot (22)](https://user-images.githubusercontent.com/60149326/200805858-1e4f1747-40a9-4af4-bfe3-04f73e4d04a0.png)
-</dl>
 </li>
   
-<li><b>Greeter Tab<b>
+<li><b>Greeter Tab</b>
   <dl>
     ![image](https://user-images.githubusercontent.com/60149326/200806503-3e23fb1b-79ca-4bf8-9ca7-ef37cfa02d5e.png)
   </dl>
@@ -29,7 +27,7 @@ The output of the final dApp is attached below
   </ul>
 </li>
   
-<li><b>Messenger Tab<b>
+<li><b>Messenger Tab</b>
   <dl>
     ![image](https://user-images.githubusercontent.com/60149326/200808047-487364e5-5698-48c2-9363-d78d7b4fe82e.png)
   </dl>
@@ -48,7 +46,7 @@ The output of the final dApp is attached below
   </ul>
 </li>
     
-<li><b>Storage Tab<b>
+<li><b>Storage Tab</b>
   <dl>
     ![image](https://user-images.githubusercontent.com/60149326/200808366-8b492945-e28d-4e71-82a5-5dbecc55b5d0.png)
   </dl>
